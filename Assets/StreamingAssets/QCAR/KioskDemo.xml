@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="MA2" size="1.000000 0.555615" />
+    <ImageTarget name="MA1" size="1.000000 0.555615" />
+    <ImageTarget name="Volcano" size="1.000000 1.593750" />
+    <ImageTarget name="History" size="1.000000 1.421875" />
+    <ImageTarget name="Heart" size="1.000000 1.404297" />
+    <ImageTarget name="English" size="1.000000 1.386719" />
+    <ImageTarget name="Biology" size="1.000000 1.437500" />
+  </Tracking>
+</QCARConfig>
