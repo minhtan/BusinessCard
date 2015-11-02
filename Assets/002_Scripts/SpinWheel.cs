@@ -20,7 +20,7 @@ public class SpinWheel : MonoBehaviour
         Vector3 pos = Camera.main.WorldToScreenPoint(transform.position);
         pos = Input.mousePosition - pos;
         float ang = Mathf.Atan2(pos.y, pos.x) * Mathf.Rad2Deg + baseAngle;
-        //transform.rotation = Quaternion.AngleAxis(ang, Vector3.down);
+        transform.rotation = Quaternion.AngleAxis(ang, Vector3.down);
     }
 }
 
