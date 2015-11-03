@@ -8,6 +8,7 @@ using UnityEngine;
 using Vuforia;
 using System.Collections;
 using System.Collections.Generic;
+using UnityEngine.UI;
 
 /// <summary>
 /// The VideoPlaybackBehaviour manages the appearance of a video that can be superimposed on a target.

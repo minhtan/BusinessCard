@@ -3,23 +3,23 @@ using System.Collections;
 
 public class SpinWheel : MonoBehaviour
 {
-    private float baseAngle = 0.0f;
+    private float touchAngle = 0.0f;
 
     void OnMouseDown()
     {
-        
         Vector3 pos = Camera.main.WorldToScreenPoint(transform.position);
         pos = Input.mousePosition - pos;
-        Debug.Log(transform.right + " " + transform.up + " " + transform.forward + " " + pos);
-        baseAngle = Mathf.Atan2(pos.y, pos.x) * Mathf.Rad2Deg;
-        baseAngle -= Mathf.Atan2(transform.right.y, transform.right.x) * Mathf.Rad2Deg;
+        touchAngle = Mathf.Atan2(pos.y, pos.x) * Mathf.Rad2Deg;
+        //float originAngle = Mathf.Atan2(transform.forward.y, transform.forward.x) * Mathf.Rad2Deg;
+        float originAngle = transform.rotation.eulerAngles.y * -1 + 360;
+        touchAngle = touchAngle - originAngle;
     }
 
     void OnMouseDrag()
     {
         Vector3 pos = Camera.main.WorldToScreenPoint(transform.position);
         pos = Input.mousePosition - pos;
-        float ang = Mathf.Atan2(pos.y, pos.x) * Mathf.Rad2Deg + baseAngle;
+        float ang = Mathf.Atan2(pos.y, pos.x) * Mathf.Rad2Deg - touchAngle;
         transform.rotation = Quaternion.AngleAxis(ang, Vector3.down);
     }
 }
