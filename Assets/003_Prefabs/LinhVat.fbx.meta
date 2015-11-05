@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: a0774a00c4100514f87f36d57c6d1e09
+timeCreated: 1446701739
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Char_C_1
+    100002: Char_e_1
+    100004: Char_e_2
+    100006: Char_i_1
+    100008: Char_i_3
+    100010: Char_i_4
+    100012: Char_l_1
+    100014: Char_l_3
+    100016: Char_l_4
+    100018: Char_m_1
+    100020: Char_m_2
+    100022: Char_o_1
+    100024: Char_p_3
+    100026: Char_p_4
+    100028: Char_s_1
+    100030: Char_U_1
+    100032: Char_U_2
+    100034: Char_x_7
+    100036: Char_x_8
+    100038: curve2
+    100040: curve3
+    100042: curve4
+    100044: curve5
+    100046: curve6
+    100048: curve68
+    100050: curve69
+    100052: curve7
+    100054: curve70
+    100056: curve71
+    100058: curve72
+    100060: curve73
+    100062: curve74
+    100064: curve75
+    100066: curve76
+    100068: curve77
+    100070: curve78
+    100072: curve79
+    100074: curve8
+    100076: curve80
+    100078: curve81
+    100080: curve82
+    100082: curve83
+    100084: curve84
+    100086: curve85
+    100088: curve86
+    100090: curve87
+    100092: curve9
+    100094: duoi
+    100096: eyes
+    100098: group1
+    100100: group2
+    100102: ikHandle1
+    100104: joint1
+    100106: joint3
+    100108: joint63
+    100110: joint64
+    100112: joint65
+    100114: joint66
+    100116: joint67
+    100118: joint68
+    100120: joint69
+    100122: joint70
+    100124: joint71
+    100126: joint72
+    100128: joint73
+    100130: joint74
+    100132: joint74 1
+    100134: joint75
+    100136: joint75 1
+    100138: joint76
+    100140: joint79
+    100142: joint80
+    100144: joint81
+    100146: joint82
+    100148: joint83
+    100150: joint84
+    100152: L_finger1
+    100154: L_finger5
+    100156: L_finger6
+    100158: L_finger7
+    100160: L_finger8
+    100162: //RootNode
+    100164: mesh
+    100166: nurbsCircle16
+    100168: nurbsCircle17
+    100170: nurbsCircle18
+    100172: nurbsCircle19
+    100174: nurbsCircle2
+    100176: nurbsCircle20
+    100178: nurbsCircle21
+    100180: nurbsCircle22
+    100182: nurbsCircle4
+    100184: pCube1
+    100186: pCube2
+    100188: pCube3
+    100190: pCube4
+    100192: pCylinder1
+    100194: polySurface1
+    100196: polySurface10
+    100198: polySurface11
+    100200: polySurface7
+    100202: polySurface8
+    100204: polySurface9
+    100206: pSphere1
+    100208: rig_reference:body
+    100210: rig_reference:Char_a_1
+    100212: rig_reference:Char_i_3
+    100214: rig_reference:Char_J_1
+    100216: rig_reference:Char_l_3
+    100218: rig_reference:Char_p_3
+    100220: rig_reference:Char_U_1
+    100222: rig_reference:Char_w_3
+    100224: rig_reference:Char_x_7
+    100226: rig_reference:curve2
+    100228: rig_reference:curve4
+    100230: rig_reference:curve4 1
+    100232: rig_reference:curve4 2
+    100234: rig_reference:curve4 3
+    100236: rig_reference:curve4 4
+    100238: rig_reference:curve4 5
+    100240: rig_reference:curve4 6
+    100242: rig_reference:curve4 7
+    100244: rig_reference:curve48
+    100246: rig_reference:curve49
+    100248: rig_reference:curve50
+    100250: rig_reference:curve51
+    100252: rig_reference:curve67
+    100254: rig_reference:curve68
+    100256: rig_reference:curve69
+    100258: rig_reference:curve70
+    100260: rig_reference:curve71
+    100262: rig_reference:curve72
+    100264: rig_reference:curve73
+    100266: rig_reference:curve74
+    100268: rig_reference:ears
+    100270: rig_reference:group1
+    100272: rig_reference:group16
+    100274: rig_reference:group20
+    100276: rig_reference:group21
+    100278: rig_reference:group22
+    100280: rig_reference:group25
+    100282: rig_reference:group26
+    100284: rig_reference:group27
+    100286: rig_reference:group28
+    100288: rig_reference:group29
+    100290: rig_reference:Ik
+    100292: rig_reference:ikhandle
+    100294: rig_reference:joints
+    100296: rig_reference:L_finger1
+    100298: rig_reference:L_finger5
+    100300: rig_reference:L_hand
+    100302: rig_reference:L_ikHandle_ankle
+    100304: rig_reference:L_ikHandle_ball
+    100306: rig_reference:L_ikHandle_toe
+    100308: rig_reference:L_leg
+    100310: rig_reference:L_shoulder
+    100312: rig_reference:L_thumb1
+    100314: rig_reference:locator
+    100316: rig_reference:locator1
+    100318: rig_reference:locator2
+    100320: rig_reference:main_ctrl
+    100322: rig_reference:neck
+    100324: rig_reference:nurbsCircle11
+    100326: rig_reference:nurbsCircle12
+    100328: rig_reference:nurbsCircle14
+    100330: rig_reference:nurbsCircle14 1
+    100332: rig_reference:nurbsCircle14 2
+    100334: rig_reference:nurbsCircle14 3
+    100336: rig_reference:nurbsCircle14 4
+    100338: rig_reference:nurbsCircle14 5
+    100340: rig_reference:nurbsCircle14 6
+    100342: rig_reference:nurbsCircle14 7
+    100344: rig_reference:nurbsCircle16
+    100346: rig_reference:nurbsCircle18
+    100348: rig_reference:nurbsCircle19
+    100350: rig_reference:nurbsCircle2
+    100352: rig_reference:nurbsCircle20
+    100354: rig_reference:nurbsCircle21
+    100356: rig_reference:nurbsCircle22
+    100358: rig_reference:nurbsCircle4
+    100360: rig_reference:R_hand
+    100362: rig_reference:R_ikhandle_ankle
+    100364: rig_reference:R_ikhandle_ball
+    100366: rig_reference:R_ikhandle_toe
+    100368: rig_reference:R_leg
+    100370: rig_reference:R_shoulder
+    100372: rig_reference:R_thumb
+    100374: rig_reference:squirrel_1:squirrel_1:joint1
+    100376: rig_reference:squirrel_1:squirrel_1:joint10
+    100378: rig_reference:squirrel_1:squirrel_1:joint11
+    100380: rig_reference:squirrel_1:squirrel_1:joint12
+    100382: rig_reference:squirrel_1:squirrel_1:joint13
+    100384: rig_reference:squirrel_1:squirrel_1:joint13 1
+    100386: rig_reference:squirrel_1:squirrel_1:joint14
+    100388: rig_reference:squirrel_1:squirrel_1:joint14 1
+    100390: rig_reference:squirrel_1:squirrel_1:joint16
+    100392: rig_reference:squirrel_1:squirrel_1:joint2
+    100394: rig_reference:squirrel_1:squirrel_1:joint29
+    100396: rig_reference:squirrel_1:squirrel_1:joint3
+    100398: rig_reference:squirrel_1:squirrel_1:joint4
+    100400: rig_reference:squirrel_1:squirrel_1:joint46
+    100402: rig_reference:squirrel_1:squirrel_1:joint47
+    100404: rig_reference:squirrel_1:squirrel_1:joint48
+    100406: rig_reference:squirrel_1:squirrel_1:joint5
+    100408: rig_reference:squirrel_1:squirrel_1:joint51
+    100410: rig_reference:squirrel_1:squirrel_1:joint52
+    100412: rig_reference:squirrel_1:squirrel_1:joint6
+    100414: rig_reference:squirrel_1:squirrel_1:joint61
+    100416: rig_reference:squirrel_1:squirrel_1:joint62
+    100418: rig_reference:squirrel_1:squirrel_1:joint64
+    100420: rig_reference:squirrel_1:squirrel_1:joint65
+    100422: rig_reference:squirrel_1:squirrel_1:joint66
+    100424: rig_reference:squirrel_1:squirrel_1:joint67
+    100426: rig_reference:squirrel_1:squirrel_1:joint7
+    100428: rig_reference:squirrel_1:squirrel_1:joint8
+    100430: rig_reference:squirrel_1:squirrel_1:joint9
+    100432: rig_reference:squirrel_1:squirrel_1:squirrel_1:squirrel_1:group1
+    100434: rig_reference:tail
+    100436: rig_reference:tail 1
+    100438: rig_reference:Text_Jaw_1
+    100440: rig_reference:Text_Uxlip_1
+    100442: Text_Come_1
+    100444: Text_smile_1
+    100446: Text_Uxlip_1
+    100448: Text_Uxlip_2
+    100450: transform1
+    100452: transform2
+    100454: transform3
+    100456: transform4
+    100458: transform5
+    100460: transform6
+    400000: Char_C_1
+    400002: Char_e_1
+    400004: Char_e_2
+    400006: Char_i_1
+    400008: Char_i_3
+    400010: Char_i_4
+    400012: Char_l_1
+    400014: Char_l_3
+    400016: Char_l_4
+    400018: Char_m_1
+    400020: Char_m_2
+    400022: Char_o_1
+    400024: Char_p_3
+    400026: Char_p_4
+    400028: Char_s_1
+    400030: Char_U_1
+    400032: Char_U_2
+    400034: Char_x_7
+    400036: Char_x_8
+    400038: curve2
+    400040: curve3
+    400042: curve4
+    400044: curve5
+    400046: curve6
+    400048: curve68
+    400050: curve69
+    400052: curve7
+    400054: curve70
+    400056: curve71
+    400058: curve72
+    400060: curve73
+    400062: curve74
+    400064: curve75
+    400066: curve76
+    400068: curve77
+    400070: curve78
+    400072: curve79
+    400074: curve8
+    400076: curve80
+    400078: curve81
+    400080: curve82
+    400082: curve83
+    400084: curve84
+    400086: curve85
+    400088: curve86
+    400090: curve87
+    400092: curve9
+    400094: duoi
+    400096: eyes
+    400098: group1
+    400100: group2
+    400102: ikHandle1
+    400104: joint1
+    400106: joint3
+    400108: joint63
+    400110: joint64
+    400112: joint65
+    400114: joint66
+    400116: joint67
+    400118: joint68
+    400120: joint69
+    400122: joint70
+    400124: joint71
+    400126: joint72
+    400128: joint73
+    400130: joint74
+    400132: joint74 1
+    400134: joint75
+    400136: joint75 1
+    400138: joint76
+    400140: joint79
+    400142: joint80
+    400144: joint81
+    400146: joint82
+    400148: joint83
+    400150: joint84
+    400152: L_finger1
+    400154: L_finger5
+    400156: L_finger6
+    400158: L_finger7
+    400160: L_finger8
+    400162: //RootNode
+    400164: mesh
+    400166: nurbsCircle16
+    400168: nurbsCircle17
+    400170: nurbsCircle18
+    400172: nurbsCircle19
+    400174: nurbsCircle2
+    400176: nurbsCircle20
+    400178: nurbsCircle21
+    400180: nurbsCircle22
+    400182: nurbsCircle4
+    400184: pCube1
+    400186: pCube2
+    400188: pCube3
+    400190: pCube4
+    400192: pCylinder1
+    400194: polySurface1
+    400196: polySurface10
+    400198: polySurface11
+    400200: polySurface7
+    400202: polySurface8
+    400204: polySurface9
+    400206: pSphere1
+    400208: rig_reference:body
+    400210: rig_reference:Char_a_1
+    400212: rig_reference:Char_i_3
+    400214: rig_reference:Char_J_1
+    400216: rig_reference:Char_l_3
+    400218: rig_reference:Char_p_3
+    400220: rig_reference:Char_U_1
+    400222: rig_reference:Char_w_3
+    400224: rig_reference:Char_x_7
+    400226: rig_reference:curve2
+    400228: rig_reference:curve4
+    400230: rig_reference:curve4 1
+    400232: rig_reference:curve4 2
+    400234: rig_reference:curve4 3
+    400236: rig_reference:curve4 4
+    400238: rig_reference:curve4 5
+    400240: rig_reference:curve4 6
+    400242: rig_reference:curve4 7
+    400244: rig_reference:curve48
+    400246: rig_reference:curve49
+    400248: rig_reference:curve50
+    400250: rig_reference:curve51
+    400252: rig_reference:curve67
+    400254: rig_reference:curve68
+    400256: rig_reference:curve69
+    400258: rig_reference:curve70
+    400260: rig_reference:curve71
+    400262: rig_reference:curve72
+    400264: rig_reference:curve73
+    400266: rig_reference:curve74
+    400268: rig_reference:ears
+    400270: rig_reference:group1
+    400272: rig_reference:group16
+    400274: rig_reference:group20
+    400276: rig_reference:group21
+    400278: rig_reference:group22
+    400280: rig_reference:group25
+    400282: rig_reference:group26
+    400284: rig_reference:group27
+    400286: rig_reference:group28
+    400288: rig_reference:group29
+    400290: rig_reference:Ik
+    400292: rig_reference:ikhandle
+    400294: rig_reference:joints
+    400296: rig_reference:L_finger1
+    400298: rig_reference:L_finger5
+    400300: rig_reference:L_hand
+    400302: rig_reference:L_ikHandle_ankle
+    400304: rig_reference:L_ikHandle_ball
+    400306: rig_reference:L_ikHandle_toe
+    400308: rig_reference:L_leg
+    400310: rig_reference:L_shoulder
+    400312: rig_reference:L_thumb1
+    400314: rig_reference:locator
+    400316: rig_reference:locator1
+    400318: rig_reference:locator2
+    400320: rig_reference:main_ctrl
+    400322: rig_reference:neck
+    400324: rig_reference:nurbsCircle11
+    400326: rig_reference:nurbsCircle12
+    400328: rig_reference:nurbsCircle14
+    400330: rig_reference:nurbsCircle14 1
+    400332: rig_reference:nurbsCircle14 2
+    400334: rig_reference:nurbsCircle14 3
+    400336: rig_reference:nurbsCircle14 4
+    400338: rig_reference:nurbsCircle14 5
+    400340: rig_reference:nurbsCircle14 6
+    400342: rig_reference:nurbsCircle14 7
+    400344: rig_reference:nurbsCircle16
+    400346: rig_reference:nurbsCircle18
+    400348: rig_reference:nurbsCircle19
+    400350: rig_reference:nurbsCircle2
+    400352: rig_reference:nurbsCircle20
+    400354: rig_reference:nurbsCircle21
+    400356: rig_reference:nurbsCircle22
+    400358: rig_reference:nurbsCircle4
+    400360: rig_reference:R_hand
+    400362: rig_reference:R_ikhandle_ankle
+    400364: rig_reference:R_ikhandle_ball
+    400366: rig_reference:R_ikhandle_toe
+    400368: rig_reference:R_leg
+    400370: rig_reference:R_shoulder
+    400372: rig_reference:R_thumb
+    400374: rig_reference:squirrel_1:squirrel_1:joint1
+    400376: rig_reference:squirrel_1:squirrel_1:joint10
+    400378: rig_reference:squirrel_1:squirrel_1:joint11
+    400380: rig_reference:squirrel_1:squirrel_1:joint12
+    400382: rig_reference:squirrel_1:squirrel_1:joint13
+    400384: rig_reference:squirrel_1:squirrel_1:joint13 1
+    400386: rig_reference:squirrel_1:squirrel_1:joint14
+    400388: rig_reference:squirrel_1:squirrel_1:joint14 1
+    400390: rig_reference:squirrel_1:squirrel_1:joint16
+    400392: rig_reference:squirrel_1:squirrel_1:joint2
+    400394: rig_reference:squirrel_1:squirrel_1:joint29
+    400396: rig_reference:squirrel_1:squirrel_1:joint3
+    400398: rig_reference:squirrel_1:squirrel_1:joint4
+    400400: rig_reference:squirrel_1:squirrel_1:joint46
+    400402: rig_reference:squirrel_1:squirrel_1:joint47
+    400404: rig_reference:squirrel_1:squirrel_1:joint48
+    400406: rig_reference:squirrel_1:squirrel_1:joint5
+    400408: rig_reference:squirrel_1:squirrel_1:joint51
+    400410: rig_reference:squirrel_1:squirrel_1:joint52
+    400412: rig_reference:squirrel_1:squirrel_1:joint6
+    400414: rig_reference:squirrel_1:squirrel_1:joint61
+    400416: rig_reference:squirrel_1:squirrel_1:joint62
+    400418: rig_reference:squirrel_1:squirrel_1:joint64
+    400420: rig_reference:squirrel_1:squirrel_1:joint65
+    400422: rig_reference:squirrel_1:squirrel_1:joint66
+    400424: rig_reference:squirrel_1:squirrel_1:joint67
+    400426: rig_reference:squirrel_1:squirrel_1:joint7
+    400428: rig_reference:squirrel_1:squirrel_1:joint8
+    400430: rig_reference:squirrel_1:squirrel_1:joint9
+    400432: rig_reference:squirrel_1:squirrel_1:squirrel_1:squirrel_1:group1
+    400434: rig_reference:tail
+    400436: rig_reference:tail 1
+    400438: rig_reference:Text_Jaw_1
+    400440: rig_reference:Text_Uxlip_1
+    400442: Text_Come_1
+    400444: Text_smile_1
+    400446: Text_Uxlip_1
+    400448: Text_Uxlip_2
+    400450: transform1
+    400452: transform2
+    400454: transform3
+    400456: transform4
+    400458: transform5
+    400460: transform6
+    2300000: pCube2
+    2300002: pCube3
+    2300004: pCylinder1
+    2300006: polySurface11
+    2300008: polySurface8
+    3300000: pCube2
+    3300002: pCube3
+    3300004: pCylinder1
+    3300006: polySurface11
+    3300008: polySurface8
+    4300000: polySurface8
+    4300002: polySurface11
+    4300004: pCube2
+    4300006: pCube3
+    4300008: pCylinder1
+    4300010: pCube1
+    4300012: pSphere1
+    4300014: polySurface9
+    4300016: polySurface10
+    4300018: duoi
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: duoi
+    13700002: pCube1
+    13700004: polySurface10
+    13700006: polySurface9
+    13700008: pSphere1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

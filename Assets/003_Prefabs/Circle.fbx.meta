@@ -1,0 +1,1380 @@
+fileFormatVersion: 2
+guid: 2ffabf56d76163e4b867ec1caf7a50ec
+timeCreated: 1446610938
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: chair
+    100002: Char_C_1
+    100004: Char_e_1
+    100006: Char_e_2
+    100008: Char_i_1
+    100010: Char_i_3
+    100012: Char_i_4
+    100014: Char_l_1
+    100016: Char_l_3
+    100018: Char_l_4
+    100020: Char_m_1
+    100022: Char_m_2
+    100024: Char_o_1
+    100026: Char_p_3
+    100028: Char_p_4
+    100030: Char_s_1
+    100032: Char_U_1
+    100034: Char_U_2
+    100036: Char_x_7
+    100038: Char_x_8
+    100040: circle
+    100042: circle_grp
+    100044: //RootNode
+    100046: color_1
+    100048: color_2
+    100050: color_3
+    100052: color_4
+    100054: color_5
+    100056: cube:polySurface1
+    100058: curve2
+    100060: curve3
+    100062: curve4
+    100064: curve5
+    100066: curve6
+    100068: curve68
+    100070: curve69
+    100072: curve7
+    100074: curve70
+    100076: curve71
+    100078: curve72
+    100080: curve73
+    100082: curve74
+    100084: curve75
+    100086: curve76
+    100088: curve77
+    100090: curve78
+    100092: curve79
+    100094: curve8
+    100096: curve80
+    100098: curve81
+    100100: curve82
+    100102: curve83
+    100104: curve84
+    100106: curve85
+    100108: curve86
+    100110: curve87
+    100112: curve9
+    100114: duoi
+    100116: eyes
+    100118: Flash
+    100120: giam_am
+    100122: glass1
+    100124: glass2
+    100126: glass3
+    100128: glass4
+    100130: glass5
+    100132: glass6
+    100134: gr_back
+    100136: gr_khung
+    100138: gr_main
+    100140: gr_screen
+    100142: group1
+    100144: group10
+    100146: group11
+    100148: group12
+    100150: group13
+    100152: group14
+    100154: group15
+    100156: group16
+    100158: group2
+    100160: group6
+    100162: group7
+    100164: group8
+    100166: group9
+    100168: Home2
+    100170: Home3
+    100172: Home4
+    100174: Home5
+    100176: house:0      011
+    100178: house:1      011
+    100180: house:10     011
+    100182: house:11     011
+    100184: house:12     011
+    100186: house:13     011
+    100188: house:14     011
+    100190: house:15     011
+    100192: house:18     011
+    100194: house:19     011
+    100196: house:2      011
+    100198: house:20     011
+    100200: house:21     011
+    100202: house:22     011
+    100204: house:23     011
+    100206: house:24     011
+    100208: house:25     011
+    100210: house:3      011
+    100212: house:5      011
+    100214: house:6      011
+    100216: house:7      011
+    100218: house:8      011
+    100220: house:9      011
+    100222: house:ATiles001
+    100224: house:ATiles002
+    100226: house:ATiles003
+    100228: house:ATiles004
+    100230: house:ATiles005
+    100232: house:ATiles006
+    100234: house:Group01
+    100236: house:Object181
+    100238: house:Object182
+    100240: house:Object183
+    100242: ikHandle1
+    100244: imagePlane1
+    100246: imagePlane2
+    100248: joint1
+    100250: joint3
+    100252: joint63
+    100254: joint64
+    100256: joint65
+    100258: joint66
+    100260: joint67
+    100262: joint68
+    100264: joint69
+    100266: joint70
+    100268: joint71
+    100270: joint72
+    100272: joint73
+    100274: joint74
+    100276: joint74 1
+    100278: joint75
+    100280: joint75 1
+    100282: joint76
+    100284: joint79
+    100286: joint80
+    100288: joint81
+    100290: joint82
+    100292: joint83
+    100294: joint84
+    100296: khoa
+    100298: khung1
+    100300: khung1 1
+    100302: khung2
+    100304: Khung_Main
+    100306: L_finger1
+    100308: L_finger5
+    100310: L_finger6
+    100312: L_finger7
+    100314: L_finger8
+    100316: Main_linh_kien
+    100318: mat_sau
+    100320: mesh
+    100322: nurbsCircle1
+    100324: nurbsCircle16
+    100326: nurbsCircle17
+    100328: nurbsCircle18
+    100330: nurbsCircle19
+    100332: nurbsCircle2
+    100334: nurbsCircle20
+    100336: nurbsCircle21
+    100338: nurbsCircle22
+    100340: nurbsCircle4
+    100342: obj_01
+    100344: obj_02
+    100346: obj_03
+    100348: obj_04
+    100350: obj_05
+    100352: obj_06
+    100354: obj_07
+    100356: obj_08
+    100358: obj_09
+    100360: pCube1
+    100362: pCube10
+    100364: pCube12
+    100366: pCube13
+    100368: pCube14
+    100370: pCube2
+    100372: pCube22
+    100374: pCube23
+    100376: pCube24
+    100378: pCube3
+    100380: pCube30
+    100382: pCube31
+    100384: pCube32
+    100386: pCube33
+    100388: pCube4
+    100390: pCube42
+    100392: pCube43
+    100394: pCube45
+    100396: pCube49
+    100398: pCube50
+    100400: pCube51
+    100402: pCube51 1
+    100404: pCube51 10
+    100406: pCube51 2
+    100408: pCube51 3
+    100410: pCube51 4
+    100412: pCube51 5
+    100414: pCube51 6
+    100416: pCube51 7
+    100418: pCube51 8
+    100420: pCube51 9
+    100422: pCube52
+    100424: pCube52 1
+    100426: pCube52 10
+    100428: pCube52 2
+    100430: pCube52 3
+    100432: pCube52 4
+    100434: pCube52 5
+    100436: pCube52 6
+    100438: pCube52 7
+    100440: pCube52 8
+    100442: pCube52 9
+    100444: pCube53
+    100446: pCube53 1
+    100448: pCube53 10
+    100450: pCube53 2
+    100452: pCube53 3
+    100454: pCube53 4
+    100456: pCube53 5
+    100458: pCube53 6
+    100460: pCube53 7
+    100462: pCube53 8
+    100464: pCube53 9
+    100466: pCube54
+    100468: pCube54 1
+    100470: pCube54 10
+    100472: pCube54 2
+    100474: pCube54 3
+    100476: pCube54 4
+    100478: pCube54 5
+    100480: pCube54 6
+    100482: pCube54 7
+    100484: pCube54 8
+    100486: pCube54 9
+    100488: pCube9
+    100490: pCylinder1
+    100492: pCylinder10
+    100494: pCylinder11
+    100496: pCylinder12
+    100498: pCylinder15
+    100500: pCylinder16
+    100502: pCylinder5
+    100504: pCylinder6
+    100506: pCylinder7
+    100508: pCylinder8
+    100510: pCylinder9
+    100512: phone
+    100514: phone_grp1
+    100516: Pin
+    100518: polySurface1
+    100520: polySurface10
+    100522: polySurface11
+    100524: polySurface20
+    100526: polySurface7
+    100528: polySurface8
+    100530: polySurface9
+    100532: pSphere1
+    100534: rig_reference:body
+    100536: rig_reference:Char_a_1
+    100538: rig_reference:Char_D_1
+    100540: rig_reference:Char_i_3
+    100542: rig_reference:Char_i_4
+    100544: rig_reference:Char_J_1
+    100546: rig_reference:Char_l_3
+    100548: rig_reference:Char_l_4
+    100550: rig_reference:Char_p_3
+    100552: rig_reference:Char_p_4
+    100554: rig_reference:Char_U_1
+    100556: rig_reference:Char_w_3
+    100558: rig_reference:Char_x_7
+    100560: rig_reference:Char_x_8
+    100562: rig_reference:curve2
+    100564: rig_reference:curve4
+    100566: rig_reference:curve4 1
+    100568: rig_reference:curve4 10
+    100570: rig_reference:curve4 2
+    100572: rig_reference:curve4 3
+    100574: rig_reference:curve4 4
+    100576: rig_reference:curve4 5
+    100578: rig_reference:curve4 6
+    100580: rig_reference:curve4 7
+    100582: rig_reference:curve4 8
+    100584: rig_reference:curve4 9
+    100586: rig_reference:curve48
+    100588: rig_reference:curve49
+    100590: rig_reference:curve50
+    100592: rig_reference:curve51
+    100594: rig_reference:curve67
+    100596: rig_reference:curve68
+    100598: rig_reference:curve69
+    100600: rig_reference:curve70
+    100602: rig_reference:curve71
+    100604: rig_reference:curve72
+    100606: rig_reference:curve73
+    100608: rig_reference:curve74
+    100610: rig_reference:curve75
+    100612: rig_reference:curve76
+    100614: rig_reference:curve77
+    100616: rig_reference:curve78
+    100618: rig_reference:curve79
+    100620: rig_reference:curve80
+    100622: rig_reference:curve81
+    100624: rig_reference:curve82
+    100626: rig_reference:ears
+    100628: rig_reference:group1
+    100630: rig_reference:group16
+    100632: rig_reference:group18
+    100634: rig_reference:group19
+    100636: rig_reference:group20
+    100638: rig_reference:group21
+    100640: rig_reference:group22
+    100642: rig_reference:group25
+    100644: rig_reference:group26
+    100646: rig_reference:group27
+    100648: rig_reference:group28
+    100650: rig_reference:group29
+    100652: rig_reference:group30
+    100654: rig_reference:Ik
+    100656: rig_reference:ikhandle
+    100658: rig_reference:joints
+    100660: rig_reference:L_finger1
+    100662: rig_reference:L_finger5
+    100664: rig_reference:L_hand
+    100666: rig_reference:L_ikHandle_ankle
+    100668: rig_reference:L_ikHandle_ball
+    100670: rig_reference:L_ikHandle_toe
+    100672: rig_reference:L_leg
+    100674: rig_reference:L_shoulder
+    100676: rig_reference:L_thumb1
+    100678: rig_reference:locator
+    100680: rig_reference:locator1
+    100682: rig_reference:locator2
+    100684: rig_reference:main_ctrl
+    100686: rig_reference:neck
+    100688: rig_reference:nurbsCircle11
+    100690: rig_reference:nurbsCircle12
+    100692: rig_reference:nurbsCircle14
+    100694: rig_reference:nurbsCircle14 1
+    100696: rig_reference:nurbsCircle14 10
+    100698: rig_reference:nurbsCircle14 2
+    100700: rig_reference:nurbsCircle14 3
+    100702: rig_reference:nurbsCircle14 4
+    100704: rig_reference:nurbsCircle14 5
+    100706: rig_reference:nurbsCircle14 6
+    100708: rig_reference:nurbsCircle14 7
+    100710: rig_reference:nurbsCircle14 8
+    100712: rig_reference:nurbsCircle14 9
+    100714: rig_reference:nurbsCircle16
+    100716: rig_reference:nurbsCircle18
+    100718: rig_reference:nurbsCircle19
+    100720: rig_reference:nurbsCircle2
+    100722: rig_reference:nurbsCircle20
+    100724: rig_reference:nurbsCircle21
+    100726: rig_reference:nurbsCircle22
+    100728: rig_reference:nurbsCircle4
+    100730: rig_reference:R_hand
+    100732: rig_reference:R_ikhandle_ankle
+    100734: rig_reference:R_ikhandle_ball
+    100736: rig_reference:R_ikhandle_toe
+    100738: rig_reference:R_leg
+    100740: rig_reference:R_shoulder
+    100742: rig_reference:R_thumb
+    100744: rig_reference:squirrel_1:squirrel_1:joint1
+    100746: rig_reference:squirrel_1:squirrel_1:joint10
+    100748: rig_reference:squirrel_1:squirrel_1:joint11
+    100750: rig_reference:squirrel_1:squirrel_1:joint12
+    100752: rig_reference:squirrel_1:squirrel_1:joint13
+    100754: rig_reference:squirrel_1:squirrel_1:joint13 1
+    100756: rig_reference:squirrel_1:squirrel_1:joint14
+    100758: rig_reference:squirrel_1:squirrel_1:joint14 1
+    100760: rig_reference:squirrel_1:squirrel_1:joint16
+    100762: rig_reference:squirrel_1:squirrel_1:joint2
+    100764: rig_reference:squirrel_1:squirrel_1:joint29
+    100766: rig_reference:squirrel_1:squirrel_1:joint3
+    100768: rig_reference:squirrel_1:squirrel_1:joint4
+    100770: rig_reference:squirrel_1:squirrel_1:joint46
+    100772: rig_reference:squirrel_1:squirrel_1:joint47
+    100774: rig_reference:squirrel_1:squirrel_1:joint48
+    100776: rig_reference:squirrel_1:squirrel_1:joint5
+    100778: rig_reference:squirrel_1:squirrel_1:joint51
+    100780: rig_reference:squirrel_1:squirrel_1:joint52
+    100782: rig_reference:squirrel_1:squirrel_1:joint6
+    100784: rig_reference:squirrel_1:squirrel_1:joint61
+    100786: rig_reference:squirrel_1:squirrel_1:joint62
+    100788: rig_reference:squirrel_1:squirrel_1:joint64
+    100790: rig_reference:squirrel_1:squirrel_1:joint65
+    100792: rig_reference:squirrel_1:squirrel_1:joint66
+    100794: rig_reference:squirrel_1:squirrel_1:joint67
+    100796: rig_reference:squirrel_1:squirrel_1:joint7
+    100798: rig_reference:squirrel_1:squirrel_1:joint8
+    100800: rig_reference:squirrel_1:squirrel_1:joint9
+    100802: rig_reference:squirrel_1:squirrel_1:squirrel_1:squirrel_1:group1
+    100804: rig_reference:tail
+    100806: rig_reference:tail 1
+    100808: rig_reference:Text_Dxlip_1
+    100810: rig_reference:Text_Jaw_1
+    100812: rig_reference:Text_Uxlip_1
+    100814: Screen
+    100816: sim
+    100818: skull:skull
+    100820: skull:skull_MeshPart0
+    100822: skull:skull_MeshPart1
+    100824: skull:skull_MeshPart2
+    100826: tang_am
+    100828: Text_Come_1
+    100830: Text_smile_1
+    100832: Text_Uxlip_1
+    100834: Text_Uxlip_2
+    100836: transform1
+    100838: transform2
+    100840: transform3
+    100842: transform4
+    100844: transform5
+    100846: transform6
+    100848: vien_cam
+    100850: vun
+    400000: chair
+    400002: Char_C_1
+    400004: Char_e_1
+    400006: Char_e_2
+    400008: Char_i_1
+    400010: Char_i_3
+    400012: Char_i_4
+    400014: Char_l_1
+    400016: Char_l_3
+    400018: Char_l_4
+    400020: Char_m_1
+    400022: Char_m_2
+    400024: Char_o_1
+    400026: Char_p_3
+    400028: Char_p_4
+    400030: Char_s_1
+    400032: Char_U_1
+    400034: Char_U_2
+    400036: Char_x_7
+    400038: Char_x_8
+    400040: circle
+    400042: circle_grp
+    400044: //RootNode
+    400046: color_1
+    400048: color_2
+    400050: color_3
+    400052: color_4
+    400054: color_5
+    400056: cube:polySurface1
+    400058: curve2
+    400060: curve3
+    400062: curve4
+    400064: curve5
+    400066: curve6
+    400068: curve68
+    400070: curve69
+    400072: curve7
+    400074: curve70
+    400076: curve71
+    400078: curve72
+    400080: curve73
+    400082: curve74
+    400084: curve75
+    400086: curve76
+    400088: curve77
+    400090: curve78
+    400092: curve79
+    400094: curve8
+    400096: curve80
+    400098: curve81
+    400100: curve82
+    400102: curve83
+    400104: curve84
+    400106: curve85
+    400108: curve86
+    400110: curve87
+    400112: curve9
+    400114: duoi
+    400116: eyes
+    400118: Flash
+    400120: giam_am
+    400122: glass1
+    400124: glass2
+    400126: glass3
+    400128: glass4
+    400130: glass5
+    400132: glass6
+    400134: gr_back
+    400136: gr_khung
+    400138: gr_main
+    400140: gr_screen
+    400142: group1
+    400144: group10
+    400146: group11
+    400148: group12
+    400150: group13
+    400152: group14
+    400154: group15
+    400156: group16
+    400158: group2
+    400160: group6
+    400162: group7
+    400164: group8
+    400166: group9
+    400168: Home2
+    400170: Home3
+    400172: Home4
+    400174: Home5
+    400176: house:0      011
+    400178: house:1      011
+    400180: house:10     011
+    400182: house:11     011
+    400184: house:12     011
+    400186: house:13     011
+    400188: house:14     011
+    400190: house:15     011
+    400192: house:18     011
+    400194: house:19     011
+    400196: house:2      011
+    400198: house:20     011
+    400200: house:21     011
+    400202: house:22     011
+    400204: house:23     011
+    400206: house:24     011
+    400208: house:25     011
+    400210: house:3      011
+    400212: house:5      011
+    400214: house:6      011
+    400216: house:7      011
+    400218: house:8      011
+    400220: house:9      011
+    400222: house:ATiles001
+    400224: house:ATiles002
+    400226: house:ATiles003
+    400228: house:ATiles004
+    400230: house:ATiles005
+    400232: house:ATiles006
+    400234: house:Group01
+    400236: house:Object181
+    400238: house:Object182
+    400240: house:Object183
+    400242: ikHandle1
+    400244: imagePlane1
+    400246: imagePlane2
+    400248: joint1
+    400250: joint3
+    400252: joint63
+    400254: joint64
+    400256: joint65
+    400258: joint66
+    400260: joint67
+    400262: joint68
+    400264: joint69
+    400266: joint70
+    400268: joint71
+    400270: joint72
+    400272: joint73
+    400274: joint74
+    400276: joint74 1
+    400278: joint75
+    400280: joint75 1
+    400282: joint76
+    400284: joint79
+    400286: joint80
+    400288: joint81
+    400290: joint82
+    400292: joint83
+    400294: joint84
+    400296: khoa
+    400298: khung1
+    400300: khung1 1
+    400302: khung2
+    400304: Khung_Main
+    400306: L_finger1
+    400308: L_finger5
+    400310: L_finger6
+    400312: L_finger7
+    400314: L_finger8
+    400316: Main_linh_kien
+    400318: mat_sau
+    400320: mesh
+    400322: nurbsCircle1
+    400324: nurbsCircle16
+    400326: nurbsCircle17
+    400328: nurbsCircle18
+    400330: nurbsCircle19
+    400332: nurbsCircle2
+    400334: nurbsCircle20
+    400336: nurbsCircle21
+    400338: nurbsCircle22
+    400340: nurbsCircle4
+    400342: obj_01
+    400344: obj_02
+    400346: obj_03
+    400348: obj_04
+    400350: obj_05
+    400352: obj_06
+    400354: obj_07
+    400356: obj_08
+    400358: obj_09
+    400360: pCube1
+    400362: pCube10
+    400364: pCube12
+    400366: pCube13
+    400368: pCube14
+    400370: pCube2
+    400372: pCube22
+    400374: pCube23
+    400376: pCube24
+    400378: pCube3
+    400380: pCube30
+    400382: pCube31
+    400384: pCube32
+    400386: pCube33
+    400388: pCube4
+    400390: pCube42
+    400392: pCube43
+    400394: pCube45
+    400396: pCube49
+    400398: pCube50
+    400400: pCube51
+    400402: pCube51 1
+    400404: pCube51 10
+    400406: pCube51 2
+    400408: pCube51 3
+    400410: pCube51 4
+    400412: pCube51 5
+    400414: pCube51 6
+    400416: pCube51 7
+    400418: pCube51 8
+    400420: pCube51 9
+    400422: pCube52
+    400424: pCube52 1
+    400426: pCube52 10
+    400428: pCube52 2
+    400430: pCube52 3
+    400432: pCube52 4
+    400434: pCube52 5
+    400436: pCube52 6
+    400438: pCube52 7
+    400440: pCube52 8
+    400442: pCube52 9
+    400444: pCube53
+    400446: pCube53 1
+    400448: pCube53 10
+    400450: pCube53 2
+    400452: pCube53 3
+    400454: pCube53 4
+    400456: pCube53 5
+    400458: pCube53 6
+    400460: pCube53 7
+    400462: pCube53 8
+    400464: pCube53 9
+    400466: pCube54
+    400468: pCube54 1
+    400470: pCube54 10
+    400472: pCube54 2
+    400474: pCube54 3
+    400476: pCube54 4
+    400478: pCube54 5
+    400480: pCube54 6
+    400482: pCube54 7
+    400484: pCube54 8
+    400486: pCube54 9
+    400488: pCube9
+    400490: pCylinder1
+    400492: pCylinder10
+    400494: pCylinder11
+    400496: pCylinder12
+    400498: pCylinder15
+    400500: pCylinder16
+    400502: pCylinder5
+    400504: pCylinder6
+    400506: pCylinder7
+    400508: pCylinder8
+    400510: pCylinder9
+    400512: phone
+    400514: phone_grp1
+    400516: Pin
+    400518: polySurface1
+    400520: polySurface10
+    400522: polySurface11
+    400524: polySurface20
+    400526: polySurface7
+    400528: polySurface8
+    400530: polySurface9
+    400532: pSphere1
+    400534: rig_reference:body
+    400536: rig_reference:Char_a_1
+    400538: rig_reference:Char_D_1
+    400540: rig_reference:Char_i_3
+    400542: rig_reference:Char_i_4
+    400544: rig_reference:Char_J_1
+    400546: rig_reference:Char_l_3
+    400548: rig_reference:Char_l_4
+    400550: rig_reference:Char_p_3
+    400552: rig_reference:Char_p_4
+    400554: rig_reference:Char_U_1
+    400556: rig_reference:Char_w_3
+    400558: rig_reference:Char_x_7
+    400560: rig_reference:Char_x_8
+    400562: rig_reference:curve2
+    400564: rig_reference:curve4
+    400566: rig_reference:curve4 1
+    400568: rig_reference:curve4 10
+    400570: rig_reference:curve4 2
+    400572: rig_reference:curve4 3
+    400574: rig_reference:curve4 4
+    400576: rig_reference:curve4 5
+    400578: rig_reference:curve4 6
+    400580: rig_reference:curve4 7
+    400582: rig_reference:curve4 8
+    400584: rig_reference:curve4 9
+    400586: rig_reference:curve48
+    400588: rig_reference:curve49
+    400590: rig_reference:curve50
+    400592: rig_reference:curve51
+    400594: rig_reference:curve67
+    400596: rig_reference:curve68
+    400598: rig_reference:curve69
+    400600: rig_reference:curve70
+    400602: rig_reference:curve71
+    400604: rig_reference:curve72
+    400606: rig_reference:curve73
+    400608: rig_reference:curve74
+    400610: rig_reference:curve75
+    400612: rig_reference:curve76
+    400614: rig_reference:curve77
+    400616: rig_reference:curve78
+    400618: rig_reference:curve79
+    400620: rig_reference:curve80
+    400622: rig_reference:curve81
+    400624: rig_reference:curve82
+    400626: rig_reference:ears
+    400628: rig_reference:group1
+    400630: rig_reference:group16
+    400632: rig_reference:group18
+    400634: rig_reference:group19
+    400636: rig_reference:group20
+    400638: rig_reference:group21
+    400640: rig_reference:group22
+    400642: rig_reference:group25
+    400644: rig_reference:group26
+    400646: rig_reference:group27
+    400648: rig_reference:group28
+    400650: rig_reference:group29
+    400652: rig_reference:group30
+    400654: rig_reference:Ik
+    400656: rig_reference:ikhandle
+    400658: rig_reference:joints
+    400660: rig_reference:L_finger1
+    400662: rig_reference:L_finger5
+    400664: rig_reference:L_hand
+    400666: rig_reference:L_ikHandle_ankle
+    400668: rig_reference:L_ikHandle_ball
+    400670: rig_reference:L_ikHandle_toe
+    400672: rig_reference:L_leg
+    400674: rig_reference:L_shoulder
+    400676: rig_reference:L_thumb1
+    400678: rig_reference:locator
+    400680: rig_reference:locator1
+    400682: rig_reference:locator2
+    400684: rig_reference:main_ctrl
+    400686: rig_reference:neck
+    400688: rig_reference:nurbsCircle11
+    400690: rig_reference:nurbsCircle12
+    400692: rig_reference:nurbsCircle14
+    400694: rig_reference:nurbsCircle14 1
+    400696: rig_reference:nurbsCircle14 10
+    400698: rig_reference:nurbsCircle14 2
+    400700: rig_reference:nurbsCircle14 3
+    400702: rig_reference:nurbsCircle14 4
+    400704: rig_reference:nurbsCircle14 5
+    400706: rig_reference:nurbsCircle14 6
+    400708: rig_reference:nurbsCircle14 7
+    400710: rig_reference:nurbsCircle14 8
+    400712: rig_reference:nurbsCircle14 9
+    400714: rig_reference:nurbsCircle16
+    400716: rig_reference:nurbsCircle18
+    400718: rig_reference:nurbsCircle19
+    400720: rig_reference:nurbsCircle2
+    400722: rig_reference:nurbsCircle20
+    400724: rig_reference:nurbsCircle21
+    400726: rig_reference:nurbsCircle22
+    400728: rig_reference:nurbsCircle4
+    400730: rig_reference:R_hand
+    400732: rig_reference:R_ikhandle_ankle
+    400734: rig_reference:R_ikhandle_ball
+    400736: rig_reference:R_ikhandle_toe
+    400738: rig_reference:R_leg
+    400740: rig_reference:R_shoulder
+    400742: rig_reference:R_thumb
+    400744: rig_reference:squirrel_1:squirrel_1:joint1
+    400746: rig_reference:squirrel_1:squirrel_1:joint10
+    400748: rig_reference:squirrel_1:squirrel_1:joint11
+    400750: rig_reference:squirrel_1:squirrel_1:joint12
+    400752: rig_reference:squirrel_1:squirrel_1:joint13
+    400754: rig_reference:squirrel_1:squirrel_1:joint13 1
+    400756: rig_reference:squirrel_1:squirrel_1:joint14
+    400758: rig_reference:squirrel_1:squirrel_1:joint14 1
+    400760: rig_reference:squirrel_1:squirrel_1:joint16
+    400762: rig_reference:squirrel_1:squirrel_1:joint2
+    400764: rig_reference:squirrel_1:squirrel_1:joint29
+    400766: rig_reference:squirrel_1:squirrel_1:joint3
+    400768: rig_reference:squirrel_1:squirrel_1:joint4
+    400770: rig_reference:squirrel_1:squirrel_1:joint46
+    400772: rig_reference:squirrel_1:squirrel_1:joint47
+    400774: rig_reference:squirrel_1:squirrel_1:joint48
+    400776: rig_reference:squirrel_1:squirrel_1:joint5
+    400778: rig_reference:squirrel_1:squirrel_1:joint51
+    400780: rig_reference:squirrel_1:squirrel_1:joint52
+    400782: rig_reference:squirrel_1:squirrel_1:joint6
+    400784: rig_reference:squirrel_1:squirrel_1:joint61
+    400786: rig_reference:squirrel_1:squirrel_1:joint62
+    400788: rig_reference:squirrel_1:squirrel_1:joint64
+    400790: rig_reference:squirrel_1:squirrel_1:joint65
+    400792: rig_reference:squirrel_1:squirrel_1:joint66
+    400794: rig_reference:squirrel_1:squirrel_1:joint67
+    400796: rig_reference:squirrel_1:squirrel_1:joint7
+    400798: rig_reference:squirrel_1:squirrel_1:joint8
+    400800: rig_reference:squirrel_1:squirrel_1:joint9
+    400802: rig_reference:squirrel_1:squirrel_1:squirrel_1:squirrel_1:group1
+    400804: rig_reference:tail
+    400806: rig_reference:tail 1
+    400808: rig_reference:Text_Dxlip_1
+    400810: rig_reference:Text_Jaw_1
+    400812: rig_reference:Text_Uxlip_1
+    400814: Screen
+    400816: sim
+    400818: skull:skull
+    400820: skull:skull_MeshPart0
+    400822: skull:skull_MeshPart1
+    400824: skull:skull_MeshPart2
+    400826: tang_am
+    400828: Text_Come_1
+    400830: Text_smile_1
+    400832: Text_Uxlip_1
+    400834: Text_Uxlip_2
+    400836: transform1
+    400838: transform2
+    400840: transform3
+    400842: transform4
+    400844: transform5
+    400846: transform6
+    400848: vien_cam
+    400850: vun
+    2300000: Flash
+    2300002: giam_am
+    2300004: glass1
+    2300006: glass2
+    2300008: glass3
+    2300010: glass4
+    2300012: glass5
+    2300014: glass6
+    2300016: Home2
+    2300018: Home3
+    2300020: Home4
+    2300022: Home5
+    2300024: house:0      011
+    2300026: house:1      011
+    2300028: house:10     011
+    2300030: house:11     011
+    2300032: house:12     011
+    2300034: house:13     011
+    2300036: house:14     011
+    2300038: house:15     011
+    2300040: house:18     011
+    2300042: house:19     011
+    2300044: house:2      011
+    2300046: house:20     011
+    2300048: house:21     011
+    2300050: house:22     011
+    2300052: house:23     011
+    2300054: house:24     011
+    2300056: house:25     011
+    2300058: house:3      011
+    2300060: house:5      011
+    2300062: house:6      011
+    2300064: house:7      011
+    2300066: house:8      011
+    2300068: house:9      011
+    2300070: house:ATiles001
+    2300072: house:ATiles002
+    2300074: house:ATiles003
+    2300076: house:ATiles004
+    2300078: house:ATiles005
+    2300080: house:ATiles006
+    2300082: house:Object181
+    2300084: house:Object182
+    2300086: house:Object183
+    2300088: khoa
+    2300090: khung1
+    2300092: khung1 1
+    2300094: khung2
+    2300096: Khung_Main
+    2300098: Main_linh_kien
+    2300100: mat_sau
+    2300102: obj_01
+    2300104: obj_02
+    2300106: obj_03
+    2300108: obj_04
+    2300110: obj_05
+    2300112: obj_06
+    2300114: obj_07
+    2300116: obj_08
+    2300118: obj_09
+    2300120: pCube10
+    2300122: pCube12
+    2300124: pCube13
+    2300126: pCube14
+    2300128: pCube2
+    2300130: pCube22
+    2300132: pCube23
+    2300134: pCube24
+    2300136: pCube3
+    2300138: pCube30
+    2300140: pCube31
+    2300142: pCube32
+    2300144: pCube33
+    2300146: pCube42
+    2300148: pCube43
+    2300150: pCube45
+    2300152: pCube49
+    2300154: pCube50
+    2300156: pCube51
+    2300158: pCube51 1
+    2300160: pCube51 10
+    2300162: pCube51 2
+    2300164: pCube51 3
+    2300166: pCube51 4
+    2300168: pCube51 5
+    2300170: pCube51 6
+    2300172: pCube51 7
+    2300174: pCube51 8
+    2300176: pCube51 9
+    2300178: pCube52
+    2300180: pCube52 1
+    2300182: pCube52 10
+    2300184: pCube52 2
+    2300186: pCube52 3
+    2300188: pCube52 4
+    2300190: pCube52 5
+    2300192: pCube52 6
+    2300194: pCube52 7
+    2300196: pCube52 8
+    2300198: pCube52 9
+    2300200: pCube53
+    2300202: pCube53 1
+    2300204: pCube53 10
+    2300206: pCube53 2
+    2300208: pCube53 3
+    2300210: pCube53 4
+    2300212: pCube53 5
+    2300214: pCube53 6
+    2300216: pCube53 7
+    2300218: pCube53 8
+    2300220: pCube53 9
+    2300222: pCube54
+    2300224: pCube54 1
+    2300226: pCube54 10
+    2300228: pCube54 2
+    2300230: pCube54 3
+    2300232: pCube54 4
+    2300234: pCube54 5
+    2300236: pCube54 6
+    2300238: pCube54 7
+    2300240: pCube54 8
+    2300242: pCube54 9
+    2300244: pCube9
+    2300246: pCylinder1
+    2300248: pCylinder10
+    2300250: pCylinder11
+    2300252: pCylinder12
+    2300254: pCylinder15
+    2300256: pCylinder16
+    2300258: pCylinder5
+    2300260: pCylinder6
+    2300262: pCylinder7
+    2300264: pCylinder8
+    2300266: pCylinder9
+    2300268: Pin
+    2300270: polySurface11
+    2300272: polySurface20
+    2300274: polySurface8
+    2300276: Screen
+    2300278: sim
+    2300280: skull:skull_MeshPart0
+    2300282: skull:skull_MeshPart1
+    2300284: skull:skull_MeshPart2
+    2300286: tang_am
+    2300288: vien_cam
+    3300000: Flash
+    3300002: giam_am
+    3300004: glass1
+    3300006: glass2
+    3300008: glass3
+    3300010: glass4
+    3300012: glass5
+    3300014: glass6
+    3300016: Home2
+    3300018: Home3
+    3300020: Home4
+    3300022: Home5
+    3300024: house:0      011
+    3300026: house:1      011
+    3300028: house:10     011
+    3300030: house:11     011
+    3300032: house:12     011
+    3300034: house:13     011
+    3300036: house:14     011
+    3300038: house:15     011
+    3300040: house:18     011
+    3300042: house:19     011
+    3300044: house:2      011
+    3300046: house:20     011
+    3300048: house:21     011
+    3300050: house:22     011
+    3300052: house:23     011
+    3300054: house:24     011
+    3300056: house:25     011
+    3300058: house:3      011
+    3300060: house:5      011
+    3300062: house:6      011
+    3300064: house:7      011
+    3300066: house:8      011
+    3300068: house:9      011
+    3300070: house:ATiles001
+    3300072: house:ATiles002
+    3300074: house:ATiles003
+    3300076: house:ATiles004
+    3300078: house:ATiles005
+    3300080: house:ATiles006
+    3300082: house:Object181
+    3300084: house:Object182
+    3300086: house:Object183
+    3300088: khoa
+    3300090: khung1
+    3300092: khung1 1
+    3300094: khung2
+    3300096: Khung_Main
+    3300098: Main_linh_kien
+    3300100: mat_sau
+    3300102: obj_01
+    3300104: obj_02
+    3300106: obj_03
+    3300108: obj_04
+    3300110: obj_05
+    3300112: obj_06
+    3300114: obj_07
+    3300116: obj_08
+    3300118: obj_09
+    3300120: pCube10
+    3300122: pCube12
+    3300124: pCube13
+    3300126: pCube14
+    3300128: pCube2
+    3300130: pCube22
+    3300132: pCube23
+    3300134: pCube24
+    3300136: pCube3
+    3300138: pCube30
+    3300140: pCube31
+    3300142: pCube32
+    3300144: pCube33
+    3300146: pCube42
+    3300148: pCube43
+    3300150: pCube45
+    3300152: pCube49
+    3300154: pCube50
+    3300156: pCube51
+    3300158: pCube51 1
+    3300160: pCube51 10
+    3300162: pCube51 2
+    3300164: pCube51 3
+    3300166: pCube51 4
+    3300168: pCube51 5
+    3300170: pCube51 6
+    3300172: pCube51 7
+    3300174: pCube51 8
+    3300176: pCube51 9
+    3300178: pCube52
+    3300180: pCube52 1
+    3300182: pCube52 10
+    3300184: pCube52 2
+    3300186: pCube52 3
+    3300188: pCube52 4
+    3300190: pCube52 5
+    3300192: pCube52 6
+    3300194: pCube52 7
+    3300196: pCube52 8
+    3300198: pCube52 9
+    3300200: pCube53
+    3300202: pCube53 1
+    3300204: pCube53 10
+    3300206: pCube53 2
+    3300208: pCube53 3
+    3300210: pCube53 4
+    3300212: pCube53 5
+    3300214: pCube53 6
+    3300216: pCube53 7
+    3300218: pCube53 8
+    3300220: pCube53 9
+    3300222: pCube54
+    3300224: pCube54 1
+    3300226: pCube54 10
+    3300228: pCube54 2
+    3300230: pCube54 3
+    3300232: pCube54 4
+    3300234: pCube54 5
+    3300236: pCube54 6
+    3300238: pCube54 7
+    3300240: pCube54 8
+    3300242: pCube54 9
+    3300244: pCube9
+    3300246: pCylinder1
+    3300248: pCylinder10
+    3300250: pCylinder11
+    3300252: pCylinder12
+    3300254: pCylinder15
+    3300256: pCylinder16
+    3300258: pCylinder5
+    3300260: pCylinder6
+    3300262: pCylinder7
+    3300264: pCylinder8
+    3300266: pCylinder9
+    3300268: Pin
+    3300270: polySurface11
+    3300272: polySurface20
+    3300274: polySurface8
+    3300276: Screen
+    3300278: sim
+    3300280: skull:skull_MeshPart0
+    3300282: skull:skull_MeshPart1
+    3300284: skull:skull_MeshPart2
+    3300286: tang_am
+    3300288: vien_cam
+    4300000: color_1
+    4300002: color_2
+    4300004: color_3
+    4300006: color_4
+    4300008: color_5
+    4300010: Home2
+    4300012: Home3
+    4300014: Home4
+    4300016: Home5
+    4300018: glass1
+    4300020: Screen
+    4300022: khung1
+    4300024: khung2
+    4300026: Main_linh_kien
+    4300028: pCube51
+    4300030: pCube52
+    4300032: pCube53
+    4300034: pCube54
+    4300036: pCube51
+    4300038: pCube52
+    4300040: pCube53
+    4300042: pCube54
+    4300044: pCube51
+    4300046: pCube52
+    4300048: pCube53
+    4300050: pCube54
+    4300052: pCube51
+    4300054: pCube52
+    4300056: pCube53
+    4300058: pCube54
+    4300060: pCube51
+    4300062: pCube52
+    4300064: pCube53
+    4300066: pCube54
+    4300068: pCube51
+    4300070: pCube52
+    4300072: pCube53
+    4300074: pCube54
+    4300076: pCube51
+    4300078: pCube52
+    4300080: pCube53
+    4300082: pCube54
+    4300084: pCube51
+    4300086: pCube52
+    4300088: pCube53
+    4300090: pCube54
+    4300092: pCube51
+    4300094: pCube52
+    4300096: pCube53
+    4300098: pCube54
+    4300100: pCube51
+    4300102: pCube52
+    4300104: pCube53
+    4300106: pCube54
+    4300108: pCube51
+    4300110: pCube52
+    4300112: pCube53
+    4300114: pCube54
+    4300116: pCube45
+    4300118: pCube42
+    4300120: pCube43
+    4300122: pCube22
+    4300124: pCube23
+    4300126: pCube9
+    4300128: pCube10
+    4300130: pCube24
+    4300132: Pin
+    4300134: pCube14
+    4300136: pCube13
+    4300138: khung1
+    4300140: khoa
+    4300142: sim
+    4300144: giam_am
+    4300146: tang_am
+    4300148: Khung_Main
+    4300150: pCylinder9
+    4300152: pCylinder5
+    4300154: pCylinder10
+    4300156: pCylinder6
+    4300158: pCylinder12
+    4300160: pCylinder11
+    4300162: pCylinder8
+    4300164: pCylinder7
+    4300166: pCylinder15
+    4300168: pCylinder16
+    4300170: pCube32
+    4300172: pCube12
+    4300174: pCube31
+    4300176: pCube33
+    4300178: pCube30
+    4300180: pCube49
+    4300182: pCube50
+    4300184: Flash
+    4300186: mat_sau
+    4300188: glass6
+    4300190: vien_cam
+    4300192: polySurface20
+    4300194: glass2
+    4300196: glass3
+    4300198: glass4
+    4300200: glass5
+    4300202: house:ATiles001
+    4300204: house:ATiles002
+    4300206: house:ATiles003
+    4300208: house:ATiles004
+    4300210: house:ATiles005
+    4300212: house:ATiles006
+    4300214: house:Object181
+    4300216: house:Object182
+    4300218: house:Object183
+    4300220: house:0      011
+    4300222: house:1      011
+    4300224: house:2      011
+    4300226: house:3      011
+    4300228: house:5      011
+    4300230: house:6      011
+    4300232: house:7      011
+    4300234: house:8      011
+    4300236: house:9      011
+    4300238: house:10     011
+    4300240: house:11     011
+    4300242: house:12     011
+    4300244: house:13     011
+    4300246: house:14     011
+    4300248: house:15     011
+    4300250: house:18     011
+    4300252: house:19     011
+    4300254: house:20     011
+    4300256: house:21     011
+    4300258: house:22     011
+    4300260: house:23     011
+    4300262: house:24     011
+    4300264: house:25     011
+    4300266: skull:skull_MeshPart0
+    4300268: skull:skull_MeshPart1
+    4300270: skull:skull_MeshPart2
+    4300272: obj_05
+    4300274: obj_08
+    4300276: obj_07
+    4300278: obj_06
+    4300280: obj_01
+    4300282: obj_04
+    4300284: obj_03
+    4300286: obj_02
+    4300288: obj_09
+    4300290: polySurface8
+    4300292: polySurface11
+    4300294: pCube2
+    4300296: pCube3
+    4300298: pCylinder1
+    4300300: pCube1
+    4300302: pSphere1
+    4300304: polySurface9
+    4300306: polySurface10
+    4300308: duoi
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: color_1
+    13700002: color_2
+    13700004: color_3
+    13700006: color_4
+    13700008: color_5
+    13700010: duoi
+    13700012: pCube1
+    13700014: polySurface10
+    13700016: polySurface9
+    13700018: pSphere1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 180
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
